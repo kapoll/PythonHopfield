@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+#choose method
 sMethod = 'Pseudoinverse' #'Hebb'/'Pseudoinverse'
 filename = sMethod + '_6x6_6.png'
 
